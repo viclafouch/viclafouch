@@ -3,7 +3,7 @@
 <!--
 **viclafouch/viclafouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=viclafouch)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=viclafouch.viclafouch)
 
 Here are some ideas to get you started:
 
