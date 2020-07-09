@@ -13,7 +13,7 @@
 
 ---
 
-🧸 I'm a frontend developer and technical writer based in France. I love to teach web development and all kinds of other things online :)
+🧸 I'm a __frontend developer__ and __technical writer__ based in __France__. I love to teach web development and all kinds of other things online :)
 
 Here are some ideas to get you started:
 
