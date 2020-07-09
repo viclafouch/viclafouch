@@ -12,12 +12,12 @@
 
 ---
 
-🧸 I'm a __frontend developer__ and __technical writer__ based in __France__. I love to teach web development and all kinds of other things online :)
+I'm a __frontend developer__ and __technical writer__ based in __France__. I love to teach web development and all kinds of other things online :)
 
-💼 Currently working at [Seald](https://www.seald.io) <br/>
-🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/>
-✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/>
-📫 Contact me [@TrustedSheriff](https://twitter.com/TrustedSheriff)
+* 💼 Currently working at [Seald](https://www.seald.io) <br/>
+* 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/>
+* ✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/>
+* 📫 Contact me [@TrustedSheriff](https://twitter.com/TrustedSheriff)
 
 ## My skills
 
