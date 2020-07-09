@@ -19,7 +19,7 @@
 💬 Ask me about React.js, Vue.js, ... <br/>
 📫 How to reach me: [@TrustedSheriff](https://twitter.com/TrustedSheriff) <br/>
 
-## All in one image
+## My skills
 
 <p align="center">
   <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
