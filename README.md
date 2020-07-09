@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.victor-de-la-fouchardiere.fr/">Website</a> •
   <a href="https://twitter.com/TrustedSheriff">Twitter</a> •
-  <a href="https://www.linkedin.com/in/victordelafouchardiere">Linkedin</a> •
+  <a href="https://www.linkedin.com/in/victordelafouchardiere">Linkedin</a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## My Latest article
 
-🚀 7 amazing CSS tips and tricks for linting your HTML 🔥
+[🚀 7 amazing CSS tips and tricks for linting your HTML 🔥](https://dev.to/viclafouch/7-amazing-css-tips-and-tricks-for-linting-your-html-o5n)
 
 [![PE VIDEO](https://github.com/viclafouch/viclafouch/blob/master/img/dev-to.jpg)](https://dev.to/viclafouch/7-amazing-css-tips-and-tricks-for-linting-your-html-o5n)
 
