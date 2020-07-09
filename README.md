@@ -14,10 +14,10 @@
 
 🧸 I'm a __frontend developer__ and __technical writer__ based in __France__. I love to teach web development and all kinds of other things online :)
 
-🔭 I’m currently working on [TF Center v.1.5](https://github.com/viclafouch/TFs-Center/tree/v.1.5) for YouTube Trusted Flaggers <br/>
-🌱 I’m currently learning React <br/>
-💬 Ask me about React.js, Vue.js, ... <br/>
-📫 How to reach me: [@TrustedSheriff](https://twitter.com/TrustedSheriff) <br/>
+💼 Currently working at [Seald](https://www.seald.io)
+🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)
+✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/>
+📫 Contact me [@TrustedSheriff](https://twitter.com/TrustedSheriff)
 
 ## My skills
 
