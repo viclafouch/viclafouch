@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
   <a href="https://www.victor-de-la-fouchardiere.fr/">Website</a> •
@@ -6,7 +6,10 @@
   <a href="https://www.linkedin.com/in/victordelafouchardiere">Linkedin</a> •
 </p>
 
-<img alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/welcome.gif" />
+<p align="center">
+  <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/welcome.gif" />
+</p>
+
 
 ---
 
