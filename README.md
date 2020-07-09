@@ -10,7 +10,6 @@
   <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/welcome.gif" />
 </p>
 
-
 ---
 
 🧸 I'm a __frontend developer__ and __technical writer__ based in __France__. I love to teach web development and all kinds of other things online :)
@@ -21,6 +20,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React
 - 💬 Ask me about React.js, Vue.js, ...
 - 📫 How to reach me: [@TrustedSheriff](https://twitter.com/TrustedSheriff)
+
+## All in one image
+
+<p align="center">
+  <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
+</p>
 
 ## My Latest article
 
