@@ -21,12 +21,11 @@ I'm a __frontend developer__ and __technical writer__ based in __France__. I lov
 
 ## My last 3 articles
 
+[📱 5 Best Places to find free SVG/CSS icons for your websites 🪐](https://dev.to/viclafouch/5-best-places-to-find-free-svg-css-icons-for-your-websites-41c5)
+
 [🚀 7 amazing CSS tips and tricks for linting your HTML 🔥](https://dev.to/viclafouch/7-amazing-css-tips-and-tricks-for-linting-your-html-o5n)
 
 [🦄 How to scope your CSS/SCSS in React JS ⚡️](https://dev.to/viclafouch/how-to-scope-your-css-scss-in-react-js-271a)
-
-[🔧 Build a complete Modal Component with React Hooks 🌈](https://dev.to/viclafouch/build-a-complete-modal-component-with-react-hooks-2fk8)
-
 
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=viclafouch.viclafouch)
