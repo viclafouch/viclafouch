@@ -28,4 +28,4 @@ I'm a __frontend developer__ and __technical writer__ based in __France__. I lov
 [🚀 7 amazing CSS tips and tricks for linting your HTML 🔥](https://dev.to/viclafouch/7-amazing-css-tips-and-tricks-for-linting-your-html-o5n)
 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=viclafouch.viclafouch)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=viclafouch.viclafouch)
