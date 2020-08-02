@@ -21,11 +21,8 @@ I'm a __frontend developer__ and __technical writer__ based in __France__. I lov
 
 ## My last 3 articles
 
-[🍦 Cancel Properly HTTP Requests in React Hooks and avoid Memory Leaks 🚨](https://dev.to/viclafouch/cancel-properly-http-requests-in-react-hooks-and-avoid-memory-leaks-pd7)
-
-[📱 5 Best Places to find free SVG/CSS icons for your websites 🪐](https://dev.to/viclafouch/5-best-places-to-find-free-svg-css-icons-for-your-websites-41c5)
-
-[🚀 7 amazing CSS tips and tricks for linting your HTML 🔥](https://dev.to/viclafouch/7-amazing-css-tips-and-tricks-for-linting-your-html-o5n)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=viclafouch.viclafouch)
