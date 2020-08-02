@@ -21,7 +21,7 @@ I'm a __frontend developer__ and __technical writer__ based in __France__. I lov
 
 ## My last 3 articles
 
-[🚜 Improve your productivity with Snippets of JavaScript on the Chrome DevTools 🍄](https://dev.to/viclafouch/improve-your-productivity-with-snippets-of-javascript-on-the-chrome-devtools-3gfm)
+[🍦 Cancel Properly HTTP Requests in React Hooks and avoid Memory Leaks 🚨](https://dev.to/viclafouch/cancel-properly-http-requests-in-react-hooks-and-avoid-memory-leaks-pd7)
 
 [📱 5 Best Places to find free SVG/CSS icons for your websites 🪐](https://dev.to/viclafouch/5-best-places-to-find-free-svg-css-icons-for-your-websites-41c5)
 
