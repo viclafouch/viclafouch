@@ -19,7 +19,7 @@ I'm a __frontend developer__ and __technical writer__ based in __France__. I lov
   <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
 </p>
 
-## My last 3 articles
+## My last 3 DEV articles
 
 <!-- BLOG-POST-LIST:START -->
 - [🍦 Cancel Properly HTTP Requests in React Hooks and avoid Memory Leaks 🚨](https://dev.to/viclafouch/cancel-properly-http-requests-in-react-hooks-and-avoid-memory-leaks-pd7)
