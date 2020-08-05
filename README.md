@@ -27,5 +27,7 @@ I'm a __frontend developer__ and __technical writer__ based in __France__. I lov
 - [📱 5 Best Places to find free SVG/CSS icons for your websites 🪐](https://dev.to/viclafouch/5-best-places-to-find-free-svg-css-icons-for-your-websites-41c5)
 <!-- BLOG-POST-LIST:END -->
 
+<br/>
+<br/>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=viclafouch.viclafouch)
