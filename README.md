@@ -21,7 +21,7 @@ I'm a __frontend developer__ and __technical writer__ based in __France__. I lov
 
 # My sound of the moment
 
-[![Spotify](https://github.com/viclafouch/viclafouch/blob/master/img/spotify-300.png)](https://open.spotify.com/track/1HC3nSraaRQ82RJP4TjYTX?si=H27zhrzZQLKeXZoq0rLUNw)
+[![Spotify](https://github.com/viclafouch/viclafouch/blob/master/img/spotify-480.png)](https://open.spotify.com/track/1HC3nSraaRQ82RJP4TjYTX?si=H27zhrzZQLKeXZoq0rLUNw)
 
 ## My last 3 DEV articles
 
