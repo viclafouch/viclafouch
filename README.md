@@ -26,9 +26,9 @@ I'm a __frontend developer__ and __technical writer__ based in __France__. I lov
 ## My last 3 DEV articles
 
 <!-- BLOG-POST-LIST:START -->
-- [🍿 Publish your own ESLint / Prettier config for React Projects on NPM 📦](https://dev.to/viclafouch/publish-your-own-eslint-prettier-config-for-react-projects-on-npm-4e8d)
 - [🤝 Promise.allSettled() VS Promise.all() in JavaScript 🍭](https://dev.to/viclafouch/promise-allsettled-vs-promise-all-in-javascript-4mle)
 - [Share your Portfolio here 📣](https://dev.to/viclafouch/share-your-portfolio-here-3hgg)
+- [📦 GitHub Profile: The RIGHT Way to Show your latest DEV articles + BONUS 🎁](https://dev.to/viclafouch/github-profile-the-right-way-to-show-your-latest-dev-articles-bonus-398m)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
