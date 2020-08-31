@@ -26,7 +26,7 @@ I'm a __frontend developer__ and __technical writer__ based in __France__. I lov
 ## My last 3 DEV articles
 
 <!-- BLOG-POST-LIST:START -->
-- [👑 An Encrypted Chat App with React Hooks, Firebase and Seald 🔐](https://dev.to/viclafouch/an-encrypted-chat-app-with-react-hooks-firebase-and-seald-2p0e)
+- [👑 Create a secure Chat Application with React Hooks, Firebase and Seald 🔐](https://dev.to/viclafouch/create-a-secure-chat-application-with-react-hooks-firebase-and-seald-2bc1)
 - [🍿 Publish your own ESLint / Prettier config for React Projects on NPM 📦](https://dev.to/viclafouch/publish-your-own-eslint-prettier-config-for-react-projects-on-npm-g3p)
 - [🤝 Promise.allSettled() VS Promise.all() in JavaScript 🍭](https://dev.to/viclafouch/promise-allsettled-vs-promise-all-in-javascript-4mle)
 <!-- BLOG-POST-LIST:END -->
