@@ -29,7 +29,10 @@ I'm a __frontend developer__ and __technical writer__ based in __France__. I lov
 - [🤝 Promise.allSettled() VS Promise.all() in JavaScript 🍭](https://dev.to/viclafouch/promise-allsettled-vs-promise-all-in-javascript-4mle)
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
-<br/>
+<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viclafouch)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=viclafouch.viclafouch)
