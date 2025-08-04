@@ -8,7 +8,7 @@
 
 I'm a __frontend developer__ and __technical writer__ based in __France__. I love teaching web development and all kinds of other things online and I'm ready for discussions and making new projects, write blogs on Dev.to etc.
 
-* 💼 Latest job at [Zoī](https://zoi.com/) <br/>
+* 💼 Latest job at [Zoī](https://zoi.com/). **I'm looking for new opportunities 🤩** <br/>
 * 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/>
 * 👨‍🏫 I'm freelance teacher in web develpment or Node.js (online / school) <br />
 * ✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/>
