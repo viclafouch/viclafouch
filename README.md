@@ -18,7 +18,7 @@ I'm a __frontend developer__ and __technical writer__ based in __France__. I lov
 ## My skills
 
 <p align="center">
-  <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
+  <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.jpg" />
 </p>
 
 ## My last 3 DEV articles
