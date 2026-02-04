@@ -1,27 +1,55 @@
-<h1 align="center">Hi there 👋</h1>
+# Hi, I'm Victor 👋 (and I'm open to work! 🤗)
 
-<p align="center">
-  <a href="https://www.victor-de-la-fouchardiere.fr/">Website</a> •
-  <a href="https://twitter.com/TrustedSheriff">Twitter</a> •
-  <a href="https://www.linkedin.com/in/victordelafouchardiere">Linkedin</a>
-</p>
+📍 **Paris** | 🤖 **Open Source Developer** | 🚀 **Ex [@Zoī](https://www.zoi.com/)**
 
-I'm a __frontend developer__ and __technical writer__ based in __France__. I love teaching web development and all kinds of other things online and I'm ready for discussions and making new projects, write blogs on Dev.to etc.
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-* 💼 Latest job at [Zoī](https://zoi.com/). **I'm looking for new opportunities 🤩** <br/>
-* 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/>
-* 👨‍🏫 I'm freelance teacher in web develpment or Node.js (online / school) <br />
-* ✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/>
-* 🧠 I'm an open source developer (TanStack / MUI / etc.) <br />
-* 📫 Contact me : **victor.delafouchardiere@gmail.com**
+> Front-end JS/TS developer for 8 years, graduated from Ecole Européenne des Métiers de l'Internet in Paris. I have a real vocation for web programming and love developing new projects.
+
+📫 Contact me: victor.delafouchardiere@gmail.com | [LinkedIn](https://www.linkedin.com/in/victordelafouchardiere/)
+
+## Created Projects
+
+- 🍎 **[Estcequecestlasaison](https://www.estcequecestlasaison.fr)** - A French website that helps users discover which fruits and vegetables are currently in season in France.
+- 🎥 **[Petit Meme](https://petit-meme.io)** - All my video memes in one place open to public
+- 💶 **[Sponsor Me](https://github.com/viclafouch/sponsor-me)** - Websites that share my sponsorship link of multiple products on the web
+- 🎾 **[Pasio Padel Club](https://github.com/viclafouch/pasiopadelclub)** - Modern booking platform for a padel club located in Bayonne.
+- ⚙️ **[Eslint Config](https://github.com/viclafouch/eslint-config-viclafouch)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
+- 🖼️ **[Meme Studio](https://www.meme-studio.io)** - A complete and fast website building in Next.js for creating and sharing "internet memes"
+- 📞 **[MUI tel input](https://github.com/viclafouch/mui-tel-input)** - A phone number input designed for [MUI](https://mui.com/) built with libphonenumber-js
+- 🎨 **[MUI color input](https://github.com/viclafouch/mui-color-input)** - A color input designed for [MUI](https://mui.com/) built with TinyColor
+- 👻 **[MUI otp input](https://github.com/viclafouch/mui-otp-input)** - A One Time Password input designed for [MUI](https://mui.com/)
+- 🗃️ **[MUI chips input](https://github.com/viclafouch/mui-chips-input)** - A chips input designed for [MUI](https://mui.com/)
+- 📁 **[MUI file input](https://github.com/viclafouch/mui-file-input)** - A file input designed for [MUI](https://mui.com/)
+- 📺 **[TwitchTV-PIP-stream](https://github.com/viclafouch/TwitchTV-PIP-stream)** - Enable Picture in Picture for TwitchTV
+- 📚 **[Beautify post](https://github.com/viclafouch/beautify-post)** - Web extension that allows to bold and italicize text on the LinkedIn website
+- 🍽️ **[Frichti At Work](https://atwork.frichti.co)** - Website for Frichti, a startup specialized in 100% digital restaurants
+- 🥼 **[Zoī](https://www.zoi.com)** - Website for Zoī, a startup specialized in health checkups
+- 🔐 **[Seald](https://www.seald.io)** - Website for Seald, a startup specialized in cybersecurity
 
 ## My skills
 
-<p align="center">
-  <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.jpg" />
+<p align="left">
+  <img width="600" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.jpg" />
 </p>
 
-## My last 3 DEV articles
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/viclafouch)
+
+## What I'm Doing
+
+- **Writing about tech tips** - I wrote dev articles on [dev.to](https://dev.to/viclafouch)
+- **Teaching to students** - I'm freelance teacher in web develpment or Node.js (online / school)
+- **Rapid prototyping** - Full apps in days, not months
+
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [👑 Create a secure Chat Application with React Hooks, Firebase and Seald 🔐](https://dev.to/viclafouch/create-a-secure-chat-application-with-react-hooks-firebase-and-seald-2bc1)
@@ -29,9 +57,12 @@ I'm a __frontend developer__ and __technical writer__ based in __France__. I lov
 - [🤝 Promise.allSettled() VS Promise.all() in JavaScript 🍭](https://dev.to/viclafouch/promise-allsettled-vs-promise-all-in-javascript-4mle)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
+## Connect
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viclafouch)](https://github.com/anuraghazra/github-readme-stats)
+[![Twitter](https://img.shields.io/badge/-@trustedsheriff-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/TrustedSheriff)
+[![Blog](https://img.shields.io/badge/-dev.to-000000?style=flat-square&logoColor=white)](https://dev.to/viclafouch)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victordelafouchardiere)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/viclafouch)
 
 <br />
 
