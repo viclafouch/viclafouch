@@ -16,7 +16,7 @@
 
 ## Created Projects
 
-- 🍎 **[Estcequecestlasaison](https://www.estcequecestlasaison.fr)** - A French website that helps users discover which fruits and vegetables are currently in season in France.
+- 🍎 **[Estcequecestlasaison](https://www.estcequecestlasaison.fr)** - A website that helps users discover which vegetables are currently in season in 🇫🇷.
 - 🎥 **[Petit Meme](https://petit-meme.io)** - All my video memes in one place open to public
 - 💶 **[Sponsor Me](https://github.com/viclafouch/sponsor-me)** - Websites that share my sponsorship link of multiple products on the web
 - 🎾 **[Pasio Padel Club](https://github.com/viclafouch/pasiopadelclub)** - Modern booking platform for a padel club located in Bayonne.
