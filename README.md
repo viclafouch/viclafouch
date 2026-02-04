@@ -20,7 +20,7 @@
 - 🎥 **[Petit Meme](https://petit-meme.io)** - All my video memes in one place open to public
 - 💶 **[Sponsor Me](https://github.com/viclafouch/sponsor-me)** - Websites that share my sponsorship link of multiple products on the web
 - 🎾 **[Pasio Padel Club](https://github.com/viclafouch/pasiopadelclub)** - Modern booking platform for a padel club located in Bayonne.
-- ⚙️ **[Eslint Config](https://github.com/viclafouch/eslint-config-viclafouch)** - 🛠 My Eslint settings for all of my TypeScript / React / Node projects
+- ⚙️ **[Eslint Config](https://github.com/viclafouch/eslint-config-viclafouch)** - My Eslint settings for all of my TypeScript / React / Node projects
 - 🖼️ **[Meme Studio](https://www.meme-studio.io)** - A complete and fast website building in Next.js for creating and sharing "internet memes"
 - 📞 **[MUI tel input](https://github.com/viclafouch/mui-tel-input)** - A phone number input designed for [MUI](https://mui.com/) built with libphonenumber-js
 - 🎨 **[MUI color input](https://github.com/viclafouch/mui-color-input)** - A color input designed for [MUI](https://mui.com/) built with TinyColor
