@@ -1,6 +1,6 @@
 # Hi, I'm Victor 👋 (and I'm open to work! 🤗)
 
-📍 **Paris** | 🤖 **Open Source Developer** | 🚀 **Ex [@Zoī](https://zoi.com/en)**
+📍 **Paris** | 🤖 **Open Source Developer** | 🚀 **Ex [@Zoī](https://www.zoi.com/en)**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -30,7 +30,7 @@
 - 📺 **[TwitchTV-PIP-stream](https://github.com/viclafouch/TwitchTV-PIP-stream)** - Enable Picture in Picture for TwitchTV
 - 📚 **[Beautify post](https://github.com/viclafouch/beautify-post)** - Web extension that allows to bold and italicize text on the LinkedIn website
 - 🍽️ **[Frichti At Work](https://atwork.frichti.co)** - Website for Frichti, a startup specialized in 100% digital restaurants
-- 🥼 **[Zoī](https://zoi.com/en)** - Website for Zoī, a startup specialized in health checkups
+- 🥼 **[Zoī](https://www.zoi.com/en)** - Website for Zoī, a startup specialized in health checkups
 - 🔐 **[Seald](https://www.seald.io)** - Website for Seald, a startup specialized in cybersecurity
 
 ## My skills
