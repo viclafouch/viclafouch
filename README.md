@@ -10,18 +10,19 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Front-end JS/TS developer for 8 years, graduated from Ecole Européenne des Métiers de l'Internet in Paris. I have a real vocation for web programming and love developing new projects.
+> Front-end JS/TS developer for 8 years, graduated from Ecole Européenne des Métiers de l'Internet in Paris. I have a genuine passion for web programming and love developing new projects.
 
 📫 Contact me: victor.delafouchardiere@gmail.com | [LinkedIn](https://www.linkedin.com/in/victordelafouchardiere/)
 
 ## Created Projects
 
 - 🍎 **[Estcequecestlasaison](https://www.estcequecestlasaison.fr)** - A website/mobile app that helps users discover which vegetables are currently in season in 🇫🇷.
-- 🎥 **[Petit Meme](https://petit-meme.io)** - All my video memes in one place open to public
-- 💶 **[Sponsor Me](https://github.com/viclafouch/sponsor-me)** - Websites that share my sponsorship link of multiple products on the web
+- 🎥 **[Petit Meme](https://petit-meme.io)** - All my video memes in one place, open to the public
+- 💶 **[Sponsor Me](https://github.com/viclafouch/sponsor-me)** - A website gathering my sponsorship links for various products
 - 🎾 **[Pasio Padel Club](https://github.com/viclafouch/pasiopadelclub)** - Modern booking platform for a padel club located in Bayonne.
 - ⚙️ **[Eslint Config](https://github.com/viclafouch/eslint-config-viclafouch)** - My Eslint settings for all of my TypeScript / React / React Native / Node projects
-- 🖼️ **[Meme Studio](https://www.meme-studio.io)** - A complete and fast website building in Next.js for creating and sharing "internet memes"
+- ⚙️ **[Oxc Config](https://github.com/viclafouch/viclafouch-oxc-config)** - Oxlint and Oxfmt configuration for modern TypeScript, React, Next.js, and React Native projects
+- 🖼️ **[Meme Studio](https://www.meme-studio.io)** - A complete and fast website built with Next.js for creating and sharing "internet memes"
 - 📞 **[MUI tel input](https://github.com/viclafouch/mui-tel-input)** - A phone number input designed for [MUI](https://mui.com/) built with libphonenumber-js
 - 🎨 **[MUI color input](https://github.com/viclafouch/mui-color-input)** - A color input designed for [MUI](https://mui.com/) built with TinyColor
 - 👻 **[MUI otp input](https://github.com/viclafouch/mui-otp-input)** - A One Time Password input designed for [MUI](https://mui.com/)
@@ -45,9 +46,9 @@
 
 ## What I'm Doing
 
-- **Writing about tech tips** - I wrote dev articles on [dev.to](https://dev.to/viclafouch)
-- **Teaching to students** - I'm freelance teacher in web develpment or Node.js (online / school)
-- **Rapid prototyping** - Full apps in days, not months
+- **Writing about tech tips** - I write dev articles on [dev.to](https://dev.to/viclafouch)
+- **Teaching students** - I'm a freelance teacher in web development and Node.js (online / school)
+- **Rapid prototyping** - Building full apps in days, not months
 
 ## Latest Blog Posts
 
@@ -59,7 +60,7 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@trustedsheriff-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/TrustedSheriff)
+[![Twitter](https://img.shields.io/badge/-@trustedsheriff-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/TrustedSheriff)
 [![Blog](https://img.shields.io/badge/-dev.to-000000?style=flat-square&logoColor=white)](https://dev.to/viclafouch)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victordelafouchardiere)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/viclafouch)
