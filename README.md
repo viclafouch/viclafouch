@@ -1,6 +1,6 @@
-# Hi, I'm Victor 👋 (and I'm open to work! 🤗)
+# Hi, I'm Victor 👋
 
-📍 **Paris** | 🤖 **Open Source Developer** | 🚀 **Ex [@Zoī](https://www.linkedin.com/company/zoihq)**
+📍 **Paris** | 🤖 **Open Source Developer** | 🚀 **Frontend Staff developer at [Naboo](https://www.naboo.app/)**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
