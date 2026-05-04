@@ -10,7 +10,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Front-end JS/TS developer for 8 years, graduated from Ecole Européenne des Métiers de l'Internet in Paris. I have a genuine passion for web programming and love developing new projects.
+> Front-end JS/TS developer for 10 years, graduated from Ecole Européenne des Métiers de l'Internet in Paris. I have a genuine passion for web programming and love developing new projects.
 
 📫 Contact me: victor.delafouchardiere@gmail.com | [LinkedIn](https://www.linkedin.com/in/victordelafouchardiere/)
 
